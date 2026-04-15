@@ -5,7 +5,7 @@ after images side by side and provides access to each property of each available
 Requires a license of DotImage Document Imaging and DotImage Advanced Document Cleanup to 
 run the compiled demo.
 
-This is the C# version
+This is the C# version. We Also have a [VB.NET version](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x86) available.
 
 ## Prerequisites
 This demo assumes you have the Atalasoft DotImage SDK installed and licensed for 
